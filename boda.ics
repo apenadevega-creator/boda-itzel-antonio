@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Boda Itzel y Antonio//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boda-itzel-antonio-20270306@apenadevega-creator.github.io
+DTSTAMP:20261115T200000Z
+DTSTART:20270306T120000Z
+DTEND:20270306T220000Z
+SUMMARY:Boda de Itzel & Antonio
+DESCRIPTION:13:00 Ceremonia en el Monasterio de Sant Cugat. 14:30 Banquete y celebración en Can Magí. Más información: https://apenadevega-creator.github.io/boda-itzel-antonio
+LOCATION:Monasterio de Sant Cugat\, Plaça d'Octavià s/n\, 08172 Sant Cugat del Vallès
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Mañana es la boda de Itzel & Antonio
+END:VALARM
+END:VEVENT
+END:VCALENDAR
